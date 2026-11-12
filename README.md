@@ -1,7 +1,7 @@
 # Hi, I'm Nicholas Siu
 
 I study mechanical engineering at the **University of Illinois Urbana-Champaign**. 
-I designing things that work.
+I like designing things that work.
 
 - **Research:** robotic-arm 3D printing
 - **Interests:** embedded control, mechatronics, CAD, 3D printing
