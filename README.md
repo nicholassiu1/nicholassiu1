@@ -2,9 +2,9 @@
 
 I study mechanical engineering at the **University of Illinois Urbana-Champaign** (sophomore). I like building physical things that are controlled by code I write.
 
-- 🔬 **Research:** robotic-arm 3D printing
-- 🛠 **Interests:** embedded control, mechatronics, CAD (SolidWorks), 3D printing
-- 💼 **Looking for:** summer internships in mechanical design, mechatronics or robotics
+- **Research:** robotic-arm 3D printing
+- **Interests:** embedded control, mechatronics, CAD, 3D printing
+
 
 ## Current project
 ### [Micro quadcopter with a custom flight controller](https://github.com/nicholassiu1/arduino-micro-quadcopter)
